@@ -50,6 +50,9 @@ Para la corecta ejecución del proyecto descarga `IntelliJ IDEA`.
  - Una vez abierto el proyecto del lado izquierdo despliega la carpeta `SRC` y haz doble clic en la `clase Principal`
  - Para ejecutar el proyecto puedes utilizar la combinación de teclas CTRL + F5 o en la barra superior haz clic en el icono `Run`  :arrow_forward:
 
+![aplicacion](https://github.com/JorgeGalan22/ConversorMonedas/assets/159068636/af7a6936-3689-4eec-8105-34ee1775f8ba)
+
+
 
 ## Programas utilizados
 
