@@ -37,8 +37,7 @@ Esta aplicación permite al usuario realizar la conversión de ciertas divisas, 
 
 ## Acceso al proyecto
 
- [Da clic aquí para consultar y descargar el proyecto](liga)
-
+ [Da clic aquí para consultar y descargar el proyecto](https://github.com/JorgeGalan22/ConversorMonedas/tree/main)
 
 
 ## Modo de uso
@@ -49,13 +48,16 @@ Para la corecta ejecución del proyecto descarga `IntelliJ IDEA`.
  - Después selecciona la opción `Open` o también puedes utilizar la combinación de teclas `CTRL + O`
  - Identifica la carpeta donde alojaste el archivo descargado y da clic en el `nombre del proyecto`
  - Una vez abierto el proyecto del lado izquierdo despliega la carpeta `SRC` y haz doble clic en la `clase Principal`
- - Para ejecutar el proyecto puedes utilizar la combinación de teclas CTRL + F5 o en la barra superior haz clic en el icono ` Run :arrow_forward: `
+ - Para ejecutar el proyecto puedes utilizar la combinación de teclas CTRL + F5 o en la barra superior haz clic en el icono `Run`  :arrow_forward:
 
 
 ## Programas utilizados
 
+![ij](https://github.com/JorgeGalan22/ConversorMonedas/assets/159068636/663d2a18-6fa6-4f84-84dd-7dabd2e5a064)
 
 
 ## Desarrollador
 
+![FB_IMG_1683866909158](https://github.com/JorgeGalan22/ConversorMonedas/assets/159068636/c0687468-0293-4f9f-9267-6e2edeaf2aca)
 
+Jorge Galan Saucedo
